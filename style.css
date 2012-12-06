@@ -1,0 +1,27 @@
+/*
+Theme Name: Pressed
+Description: My First WordPress Theme
+Version: 1.0
+*/
+
+img {
+	max-width: 100%;
+}
+
+h1 {
+  font-family: josefin-slab, serif;
+  font-weight: 400;
+  font-size: 3em;
+  text-align: center;
+}
+
+body {
+	font-family: merriweather, serif;
+	font-weight: 400;
+}
+
+footer {
+	font-size: .8em;
+	border-top: 1px solid #ccc;
+	padding-top: 1em;
+}
